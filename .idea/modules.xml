@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/soundtrigger/2.3/2.3.iml" filepath="$PROJECT_DIR$/soundtrigger/2.3/2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automotive/vehicle/aidl/aidl.iml" filepath="$PROJECT_DIR$/automotive/vehicle/aidl/aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soundtrigger/aidl/aidl1.iml" filepath="$PROJECT_DIR$/soundtrigger/aidl/aidl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automotive/vehicle/aidl/generated_lib/generated_lib.iml" filepath="$PROJECT_DIR$/automotive/vehicle/aidl/generated_lib/generated_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health/health.iml" filepath="$PROJECT_DIR$/health/health.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/interfaces.iml" filepath="$PROJECT_DIR$/.idea/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automotive/vehicle/tools/tools.iml" filepath="$PROJECT_DIR$/automotive/vehicle/tools/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vibrator/vibrator.iml" filepath="$PROJECT_DIR$/vibrator/vibrator.iml" />
+    </modules>
+  </component>
+</project>
