@@ -1,0 +1,30 @@
+cc_binary {
+    name: "android.hardware.carsenze-service",
+    vendor: true,
+    relative_install_path: "hw",
+    init_rc: ["android.hardware.carsenze-service.rc"],
+    vintf_fragments: ["android.hardware.carsenze-service.xml"],
+
+    srcs: [
+        "Carsenze.cpp",
+        "service.cpp",
+    ],
+
+
+    cflags: [
+        "-Wall",
+        "-Werror",
+    ],
+
+    shared_libs: [
+        "libbase",
+        "liblog",
+        "libhardware",
+        "libbinder_ndk",
+        "libbinder",
+        "libutils",
+         "android.hardware.carsenze-V1-ndk",
+
+
+    ],
+}
